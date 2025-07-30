@@ -1,0 +1,48 @@
+Custom Open Source License for IX-Thaed-Armor  
+Copyright (c) 2025 Bryce Wooster  
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software, hardware design, or related documentation files (the "System"),  
+to deal in the System without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the System, subject to the following conditions:
+
+1. **CIVILIAN & ENVIRONMENTAL USE ONLY**  
+   The System shall only be used for civilian, humanitarian, or environmental safety purposes.  
+   Deployment in weapons systems, autonomous offensive platforms, or military kill-chain frameworks  
+   is strictly prohibited. Any violation of this clause voids all license rights.
+
+2. **NON-EXPLOITATIVE DEPLOYMENT**  
+   The System shall not be used for private profiteering in regions affected by war, disaster, or economic collapse.  
+   This license mandates free or low-cost humanitarian deployment wherever lives or ecosystems are at risk.
+
+3. **TRANSPARENCY AND TRACEABILITY**  
+   Any use of the System in physical infrastructure (e.g., ships, satellites, filtration arrays)  
+   must include publicly accessible documentation stating materials used, energy interfaces, and safety tests performed.
+
+4. **NO EXPORT RESTRICTIONS APPLIED**  
+   This System is not subject to ITAR, EAR, or any other export control regulation because it is  
+   not a weapon, not classified, and not intended for militarized or state-secret use.  
+   It is a civilian-protective technology published in the public interest.
+
+5. **ATTRIBUTION REQUIRED**  
+   Any distribution or derivative work must include clear credit to the original creator:  
+   *Bryce Wooster*, and reference the GitHub repository: `https://github.com/BryceWDesign/IX-Thaed-Armor`
+
+6. **NO WARRANTY**  
+   The System is provided "as is", without warranty of any kind, express or implied, including but not limited to  
+   the warranties of merchantability, fitness for a particular purpose, or noninfringement.  
+   In no event shall the author be liable for any claim, damages, or other liability, whether in an action  
+   of contract, tort, or otherwise, arising from, out of, or in connection with the System.
+
+7. **FORKING IS ENCOURAGED — ABUSE IS NOT**  
+   You are free to fork, remix, and improve the system — but not to corrupt its purpose.  
+   Any use-case that knowingly causes harm to civilians, marine life, ecosystems, or peaceful infrastructure  
+   is considered a license violation and may trigger legal challenge.
+
+This license shall remain in force indefinitely, and cannot be revoked for any reason other than material breach.  
+Use this to protect lives, not to control them.
+
+Signed,  
+**Bryce Wooster**  
+2025 – All Continents Covered  
