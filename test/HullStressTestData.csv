@@ -1,0 +1,13 @@
+TestID,Material,ExcitationType,ExcitationFreq_Hz,PeakStress_MPa,ResonantAmplitude_mm,RMS_Displacement_mm,StressReduction_vs_Control
+001,ControlSteelPanel,VibrationSweep,3,8.21,0.85,0.41,0%
+002,ControlSteelPanel,VibrationSweep,6,9.17,1.03,0.47,0%
+003,ControlSteelPanel,VibrationSweep,9,10.25,1.18,0.53,0%
+004,IX-Thaed-Armor,VibrationSweep,3,4.02,0.31,0.12,51%
+005,IX-Thaed-Armor,VibrationSweep,6,4.66,0.36,0.14,49%
+006,IX-Thaed-Armor,VibrationSweep,9,5.03,0.39,0.17,51%
+007,IX-Thaed-Armor+ActiveDrive,PiezoDrivenSweep,3,3.25,0.22,0.09,60%
+008,IX-Thaed-Armor+ActiveDrive,PiezoDrivenSweep,6,3.54,0.24,0.10,61%
+009,IX-Thaed-Armor+ActiveDrive,PiezoDrivenSweep,9,3.89,0.27,0.11,62%
+010,ControlSteelPanel,DropImpact,Impulse,-,29.6,-,1.14,0%
+011,IX-Thaed-Armor,DropImpact,Impulse,-,17.2,-,0.62,42%
+012,IX-Thaed-Armor+ActiveDrive,DropImpact,Impulse,-,13.8,-,0.41,53%
